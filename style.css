@@ -118,7 +118,7 @@ text-align: right;
 /* Header */
 
 .header_container{
-background-image: url(images/Vector-Background.png);
+background-image: url(./Vector-Background.png);
 padding: 27px 0;
 background-size: cover;
 background-repeat: no-repeat;
@@ -363,7 +363,7 @@ font-size: 18px;
     padding: 12px;
     }
     select.dropdown-select{
-    background: url(images/Arrow.svg) no-repeat !important;
+    background: url(./Arrow.svg) no-repeat !important;
     background-position: 97% !important;
     background-size: 10px !important;
     }
